@@ -1,1 +1,2 @@
-This is the documentation for the single page application
+This document willl show the process of finding what to make the application about, the design process 
+
